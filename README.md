@@ -1,6 +1,6 @@
 
 
-<p align="center">Ola! Meu nome é Jean, e eu sou desenvolvedor BackEnd em java.</p>&nbsp;
+<p align="center">Ola! Meu nome é Jean, e eu sou desenvolvedor BackEnd em java😁👍.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jean-Jr7&theme=radical&mode=weekly" />

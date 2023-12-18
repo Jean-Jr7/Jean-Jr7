@@ -10,8 +10,10 @@
  &nbsp;
 
 
-<img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/3d30f32e-4f03-466c-beb0-ddc9d8cd19a8" min-width="400px" max-width="400" width="400px" align="right" alt="Computador iuriCode">
 ## My Skills
+
+<img width=50% img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/3d30f32e-4f03-466c-beb0-ddc9d8cd19a8" min-width="400px" max-width="400" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### Main Stack:
 
@@ -44,6 +46,8 @@
 
 
 
+
+
 &nbsp;
 &nbsp;
 
@@ -54,7 +58,10 @@
 </a>
 <a href = "mailto:contato.jean.jose102013@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jean-rodrigues22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/ae97c3b9-ac4f-4e4b-b71d-3b26952d9496" min-width="200px" max-width="1000x" width="3000px" align="right" alt="Computador iuriCode">
+
+
+<img width=100% img src = "https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=125&section=footer">
+
 
  
 

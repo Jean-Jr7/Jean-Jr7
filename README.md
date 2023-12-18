@@ -35,14 +35,14 @@
 ![AMAZOM_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-<img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/ae97c3b9-ac4f-4e4b-b71d-3b26952d9496" min-width="200px" max-width="1000x" width="3000px" align="right" alt="Computador iuriCode">
+
 
 #### Databases:
 
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+<img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/ae97c3b9-ac4f-4e4b-b71d-3b26952d9496" min-width="200px" max-width="1000x" width="3000px" align="right" alt="Computador iuriCode">
 
 &nbsp;
 &nbsp;

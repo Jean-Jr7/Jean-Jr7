@@ -36,6 +36,9 @@
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/ae97c3b9-ac4f-4e4b-b71d-3b26952d9496" min-width="200px" max-width="1000x" width="3000px" align="right" alt="Computador iuriCode">
+
+
 
 
 
@@ -61,4 +64,7 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
+
+

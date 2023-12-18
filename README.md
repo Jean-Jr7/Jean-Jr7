@@ -35,12 +35,8 @@
 ![AMAZOM_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/3d30f32e-4f03-466c-beb0-ddc9d8cd19a8" min-width="400px" max-width="400" width="400px" align="right" alt="Computador iuriCode">
 <img src="https://github.com/Jean-Jr7/Jean-Jr7/assets/147209318/ae97c3b9-ac4f-4e4b-b71d-3b26952d9496" min-width="200px" max-width="1000x" width="3000px" align="right" alt="Computador iuriCode">
-
-
-
-
 
 #### Databases:
 

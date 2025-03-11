@@ -9,7 +9,7 @@
 Sou um entusiasta de tecnologia com foco em **Engenharia de Dados, Análise de Dados** e **Mercado Financeiro**. Atualmente, estou em busca de aprendizado contínuo, desenvolvendo projetos práticos e me aprofundando em tecnologias modernas.
 
 🛠️ **Tech Stack que estou aprendendo/trabalhando:**
-- **Linguagens:** Python, SQL, Java
+- **Linguagens:** Python, SQL, Java, VBA
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Ferramentas e Tecnologias:** Power BI, Excel Avançado, AWS (Secrets Manager, RDS), Spring Boot
 - **Data Engineering:** Apache Spark, ETL, Data Pipelines (estudos em andamento)

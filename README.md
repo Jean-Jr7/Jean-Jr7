@@ -1,6 +1,6 @@
 # Jean Rodrigues!
 
-🎓 Estudante de ** Database - Data Analysis, Big Data, Data Engineering and IA e Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Database - Data Analysis, Big Data, Data Engineering and IA e Análise e Desenvolvimento de Sistemas**  
 💼 Estagiário na área de **Ações e Custódia** | Banco Bradesco  
 🚀 Apaixonado por **Tecnologia, Dados, Mercado Financeiro e Inovação**  
 

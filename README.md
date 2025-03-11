@@ -21,10 +21,6 @@ Sou um entusiasta de tecnologia com foco em **Engenharia de Dados, Análise de D
 - Mercado Financeiro (Ações, Custódia, Liquidez)
 - Inteligência Artificial (explorando!)
 
-## 📫 Como me encontrar:
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)  
-- ✉️ Email: seuemail@gmail.com  
-- 🌐 [Portfólio (em breve)](https://github.com/seuusuario)  
 
 ## ⚙️ Projetos em destaque:
 
